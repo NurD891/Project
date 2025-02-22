@@ -36,14 +36,3 @@ This project is a Java-based password generator that creates random passwords ba
 ### Input and Output Files
 - **Input**: The program does not use external input files. All input is provided by the user via the console.
 - **Output**: The program outputs the generated password and its strength evaluation to the console. Sample outputs are provided in the `test_files` folder.
-
-### Additional Details
-- The program is designed to be simple and user-friendly, with clear prompts and feedback.
-- Future improvements could include enhanced input validation, support for external input/output files, and more sophisticated password strength evaluation.
-
----
-
-## How to Run the Program
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/PasswordGenerator.git
